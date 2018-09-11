@@ -2,6 +2,18 @@
 piwheels
 ========
 
+.. image:: https://badge.fury.io/py/piwheels.svg
+    :target: https://badge.fury.io/py/piwheels
+    :alt: Latest Version
+
+.. image:: https://travis-ci.org/bennuttall/piwheels.svg?branch=master
+    :target: https://travis-ci.org/bennuttall/piwheels
+    :alt: Build Tests
+
+.. image:: https://img.shields.io/codecov/c/github/bennuttall/piwheels/master.svg?maxAge=2592000
+    :target: https://codecov.io/github/bennuttall/piwheels
+    :alt: Code Coverage
+
 piwheels is Python package repository providing `wheels`_ (pre-built binaries)
 for the ARMv6 and ARMv7 architectures used by `Raspberry Pi`_.
 
